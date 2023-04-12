@@ -1,0 +1,12 @@
+.attd {
+    border: 2px solid grey;
+    width: 53vw;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    box-shadow: 2px 2px 5px black, -2px -2px 5px black;
+    background-color: lightgray;
+}

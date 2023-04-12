@@ -1,0 +1,28 @@
+.marks {
+  border: 2px solid grey ;
+  display: flex ;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 65vh;
+  width: 42vw;
+  padding: -20px;
+  color: white;
+  box-shadow: 2px 2px 5px black, -2px -2px 5px black;
+  background: black ;
+}
+
+
+.marks ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.marks li {
+  list-style: none;
+  display: flex;
+  margin: 2rem 2rem;
+  font-size: 1.1rem;
+}

@@ -1,0 +1,35 @@
+
+.card {
+    width: 30rem;
+    border: 2px solid black !important;
+    border-radius: 30px !important;
+}
+
+
+.image-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    border-radius: 50%;
+    height: 20rem;
+    width: 10rem;
+    margin-left: 2rem;
+}
+
+.card-body {
+    line-height: 40%;
+    letter-spacing: 1.5px; 
+}
+
+h4 {
+    font-weight: 900;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+
+.course {
+    font-size: 1.2rem;
+}

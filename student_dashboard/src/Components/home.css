@@ -1,0 +1,24 @@
+.Main {
+    display: flex;
+    flex-direction: column;
+    /* background: radial-gradient(circle at 18.7% 37.8%, rgb(250, 250, 250) 0%, rgb(225, 234, 238) 90%);     */
+    /* background: lightgrey; */
+    height: 100vh;
+    overflow: hidden;
+}
+
+.top {
+    padding: 0.8rem 8rem 0 20rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bottom {
+    padding: 0 1rem 0 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
